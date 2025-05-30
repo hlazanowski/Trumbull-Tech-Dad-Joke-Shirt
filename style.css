@@ -1,10 +1,12 @@
 
 body {
-    background-color: #111;
-    color: #0ff;
-    font-family: 'Press Start 2P', monospace;
-    text-align: center;
-    padding: 50px;
+background-image: url('logo.png');
+background-repeat: no-repeat;
+background-position: top center;
+background-size: 150px;
+background-attachment: fixed;
+}
+
 }
 
 .container {
@@ -30,7 +32,4 @@ button {
 button:hover {
     background-color: #0cc;
 }
-.logo {
-    width: 100px;
-    margin-bottom: 20px;
-}
+
