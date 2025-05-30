@@ -1,0 +1,37 @@
+
+body {
+    background-color: #111;
+    color: #0ff;
+    font-family: 'Press Start 2P', monospace;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    border: 4px dashed #0ff;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: #222;
+}
+
+button {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 12px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    color: #111;
+    background-color: #0ff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0cc;
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
+}
